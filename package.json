@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "a resume creating things",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "notyet"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Jonnysu",
+  "license": "MIT"
+}
