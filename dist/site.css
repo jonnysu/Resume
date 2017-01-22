@@ -1,0 +1,9 @@
+body {
+  background-color: slategrey;
+}
+body div {
+  padding: 10px;
+}
+body div:first-letter {
+  text-transform: uppercase;
+}
