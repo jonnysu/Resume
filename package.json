@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "a resume creating things",
   "main": "index.js",
-  "dependencies": {
-    "jsonfile": "^2.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",
