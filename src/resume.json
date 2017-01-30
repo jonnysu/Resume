@@ -1,21 +1,37 @@
 {
-    "name":"Jonny Su",
-    "gender":"male",
-    "portrait":"portraitssssshuhuhu",
-    "birthday":"1981-06-24",
-    "country":"China",
-    "launguage":[{"First Language":"Chinese"},{"Second Language":"English"}],
-    "graduation":{
+    "Basic info":{
+        "portrait":"<img src='pic.png'/>",
+        "name":"Jonny Su",
+        "chinese Name":"Su Jianhui",
+        "gender":"male",
+        "birthday":"1981-06-24",
+        "country":"China",
+        "launguage":[{"First Language":"Chinese"},{"Second Language":"English"}],
+        "graduation":{
+            "collage":[
+                {
+                     
+                    "period":"2001-2003",
+                     "collage name":"handan technology collage",
+                     "major":"video and audio engineer",
+                     "description":"from that major, i learn a lot of information about how to be a dj as my intrest. actually i plan to be a DJ as my furture job."
+                },{
 
-        "collage":"hebei university of science and technology"
-         
+                    "period":"2004-2006",
+                     "collage name":"hebei university of science and technology",
+                     "major":"telecommunication engineer",
+                     "description":"doing what i am doing. trying to extend my field to a new area,telecommunication, the cellphone. the way how people can communiction by e-wave."
+
+                }
+            ]
+        }
     },
     "Work Experience":{
         "period":[
             {
                 "year":"2004-2006",
                 "company":"meckey co ltd",
-                "description":"as a bussnessman"
+                "description":"reality is cruel, i became a foreign trade salesman because of my english.i stay there for a few years,and find it do not fit me."
              },
              {
                 "year":"2006-2009",

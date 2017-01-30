@@ -1,1 +1,1 @@
-body{background-color:slategrey}body div{padding:10px}body div:first-letter{text-transform:uppercase}
+body{background-color:white}body .container{max-width:42em;background-color:snow}body .container .title{text-align:right}body .container .big-title{font-weight:bold}body .container div{padding:.5em 1em}body .container div:first-letter{text-transform:uppercase}
